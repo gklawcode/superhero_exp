@@ -7,5 +7,5 @@
 5) npm run dev
 6) cd ..
 7) npm run dev
-8) In a browser, navigate to "https://localhost:8080"
+8) In a browser, navigate to "http://localhost:8080"
 9) Contact Gabe if you have any questions
