@@ -1,5 +1,6 @@
 <template>
   <div class="container" align="center">
+    <img src="https://media2.giphy.com/media/aEBPPgXhjaUHS/source.gif">
     <h1>Marvel Superhero Explorer</h1>
     <p>(click on a superhero to see comic apperances)</p>
     <table class="table table-striped table-bordered">
@@ -44,16 +45,6 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
+  font-family: 'Press Start 2P';
 }
 </style>
